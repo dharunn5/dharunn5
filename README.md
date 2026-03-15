@@ -57,5 +57,6 @@ Open to **internships, entry-level roles, hackathons, and collaborations**.
 📩 Feel free to reach out anytime.
 
 Contact details:
+
 E-mail id : dharun456654@gmail.com                                                                                       
 ⚲ Tiruppur, TamilNadu

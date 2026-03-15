@@ -52,12 +52,6 @@
 
 ---
 
-    <img src="https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1u5EbF2NOgHqBq_HHIZDQpu_oLxbw4vkC/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-PDF-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
-  </a>
-</p>
 
 Open to **internships, entry-level roles, hackathons, and collaborations**.  
 📩 Feel free to reach out anytime.

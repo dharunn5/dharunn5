@@ -18,8 +18,8 @@
 - Building projects using **MERN Stack**
 - Strong foundation in **DSA & problem-solving**
 - Focused on **product-based company placements**
-- Tech interests: **Web Development, Java, MERN**
-- Extra skill: **Cloud Computing**
+- Tech interests: **Java, MERN**
+- Extra skill: **Cloud Computing(fundamentals)**
 
 ---
 

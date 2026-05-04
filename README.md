@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      Motivated full-stack developer with hands-on experience in building scalable web applications. Passionate about problem-solving, clean backend design, and continuous learning. Actively preparing for product-based company placements.
+      Motivated full-stack developer with hands-on experience in building scalable web applications. Passionate about problem-solving, backend design, and learning cloud computing. Actively preparing for product-based company placements.
     </td>
     <td>
       <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="250"/>
@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 About Me
-- Building projects using **MERN Stack & Spring Boot**
+- Building projects using **MERN Stack**
 - Strong foundation in **DSA & problem-solving**
 - Focused on **product-based company placements**
 - Tech interests: **Web Development, Java, MERN**
